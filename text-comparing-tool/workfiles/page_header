@@ -1,0 +1,25 @@
+<html>
+<head> 
+    <style>
+        body {
+            margin: 0 80px;
+        }
+
+        .fab {
+            display: inline;
+        }
+        .marked {
+            display: inline;
+            background: yellow;
+        }
+        .fab .marked {
+             background: #F55536;
+        }
+        .text {
+            width: 50%;
+            vertical-align: top;
+        }
+    </style>
+    <meta charset="utf-8">
+</head>
+<body>
